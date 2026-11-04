@@ -1,0 +1,241 @@
+CompetitionRegulation 한국어 슬롯 번역 — 최종승인 반영
+표준: 공식 한글명에 나라·국적 표기 없으면 (나라), 있으면 그대로. 리그·컵 확정 반영.
+EXIST=변경없음 / CHG=이번 반영에서 변경
+TS=20261102_141715 livecpk 반영.
+
+ No  구분      바이트  영문(게임)  =>  한국어
+----------------------------------------------------------------------------------------------------
+  1  OK       16  AFC Asian Cup  =>  AFC 아시안컵
+       IDs: AFC_ASIA_CUP_GROUPSTAGE, AFC_ASIA_CUP_KNOCKOUT
+  2  OK       22  AFC Champions League  =>  AFC 챔피언스리그
+       IDs: AFC_CHAMPIONS_LEAGUE_GROUPSTAGE, AFC_CHAMPIONS_LEAGUE_KNOCKOUT
+  3  OK       28  Africa Cup of Nations  =>  아프리카 네이션스컵
+       IDs: AFRICA_NATIONS_CUP_KNOCKOUT
+  4  OK       26  African Regional Qualifiers  =>  아프리카 지역 예선
+       IDs: FIFA_WORLD_CUP_AFRICA_FINAL
+  5  OK       39  Asia and Oceania Regional Qualifiers  =>  아시아-오세아니아 지역 예선
+       IDs: FIFA_WORLD_CUP_ASIA_FINAL
+  6  OK       13  Belgian Croky Cup  =>  벨기에 컵
+       IDs: BELGIUM_CUP_KNOCKOUT
+  7  CHG      39  Bottom round Group A  =>  강등 플레이오프 A조 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_2
+  8  CHG      39  Bottom round Group B  =>  강등 플레이오프 B조 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_3
+  9  CHG      34  Bottom six  =>  하위 스플릿 (스코틀랜드)
+       IDs: SCOTLAND_D1_LEAGUE_2
+ 10  CHG      27  Brasileirão Série A  =>  브라질레이랑 세리 A
+       IDs: BRAZIL_D1_LEAGUE
+ 11  CHG      27  Brasileirão Série B  =>  브라질레이랑 세리 B
+       IDs: BRAZIL_D2_LEAGUE
+ 12  CHG      24  Bundesliga  =>  분데스리가 (독일)
+       IDs: GERMANY_D1_LEAGUE
+ 13  OK       19  CFA Super League  =>  중국 슈퍼리그
+       IDs: CHINA_D1_LEAGUE
+ 14  OK       12  Chinese FA Cup  =>  중국 FA컵
+       IDs: CHINA_CUP_KNOCKOUT
+ 15  OK       19  Chinese FA Super Cup  =>  중국 FA 슈퍼컵
+       IDs: CHINA_SUPER_CUP_KNOCKOUT
+ 16  OK       19  Copa America  =>  코파 아메리카
+       IDs: COPA_AMERICA_KNOCKOUT
+ 17  OK       19  Copa América  =>  코파 아메리카
+       IDs: COPA_AMERICA_GROUPSTAGE, COPA_AMERICA_GROUPSTAGE_0, COPA_AMERICA_GROUPSTAGE_1, COPA_AMERICA_GROUPSTAGE_2, COPA_AMERICA_GROUPSTAGE_3
+ 18  OK       22  Copa Argentina AXION  =>  코파 아르헨티나
+       IDs: ARGENTINA_D1_CUP_KNOCKOUT
+ 19  OK       19  Copa BetPlay Dimayor  =>  코파 콜롬비아
+       IDs: COLOMBIA_CUP_KNOCKOUT
+ 20  OK       13  Copa Chile  =>  코파 칠레
+       IDs: CHILE_D1_CUP_KNOCKOUT
+ 21  CHG      29  Copa del Rey  =>  코파 델 레이 (스페인)
+       IDs: SPAIN_D1_CUP_KNOCKOUT
+ 22  OK       20  Copa do Brasil  =>  코파 두 브라질
+       IDs: BRAZIL_D1_CUP_KNOCKOUT
+ 23  OK       28  Copa Libertadores  =>  코파 리베르타도레스
+       IDs: COPA_LIBERTADORES_PLAYOFF, COPA_LIBERTADORES_GROUPSTAGE, COPA_LIBERTADORES_KNOCKOUT
+ 24  OK       19  Coppa Italia  =>  코파 이탈리아
+       IDs: ITALY_D1_CUP_KNOCKOUT
+ 25  OK       20  Coupe de France  =>  쿠프 드 프랑스
+       IDs: FRANCE_D1_CUP_KNOCKOUT
+ 26  OK        3  Cup  =>  컵
+       IDs: CUSTOM_GROUPSTAGE
+ 27  OK       13  Custom Cup  =>  커스텀 컵
+       IDs: CUSTOM_GROUPSTAGE_0, CUSTOM_GROUPSTAGE_1, CUSTOM_GROUPSTAGE_2, CUSTOM_GROUPSTAGE_3, CUSTOM_GROUPSTAGE_4, CUSTOM_GROUPSTAGE_5, CUSTOM_GROUPSTAGE_6, CUSTOM_GROUPSTAGE_7, CUSTOM_CUP_KNOCKOUT
+ 28  OK       13  Danish Cup  =>  덴마크 컵
+       IDs: DENMARK_CUP_KNOCKOUT
+ 29  OK       19  DFB Pokal  =>  DFB-포칼 (독일)
+       IDs: GERMANY_CUP_KNOCKOUT
+ 30  OK       22  DFL Supercup  =>  DFL-슈퍼컵 (독일)
+       IDs: GERMANY_SUPER_CUP_KNOCKOUT
+ 31  OK       31  EFL Championship  =>  EFL 챔피언십 (잉글랜드)
+       IDs: ENGLAND_D2_LEAGUE
+ 32  OK       35  English Promotion Play-off  =>  잉글랜드 승격 플레이오프
+       IDs: ENGLAND_D2_PLAYOFF_KNOCKOUT
+ 33  OK       30  Eredivisie  =>  에레디비시 (네덜란드)
+       IDs: NETHERLANDS_D1_LEAGUE
+ 34  CHG      41  European Playoffs  =>  유럽 진출 플레이오프 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_KNOCKOUT
+ 35  OK       20  European Qualifiers  =>  유럽 지역 예선
+       IDs: FIFA_WORLD_CUP_EUROPE_FINAL
+ 36  OK       25  F Superliga  =>  덴마크 수페르리가
+       IDs: DENMARK_D1_LEAGUE_SPLIT_TOTAL
+ 37  OK       37  FA Community Shield  =>  FA 커뮤니티 실드 (잉글랜드)
+       IDs: ENGLAND_SUPER_CUP_KNOCKOUT
+ 38  CHG      20  FA Cup  =>  FA컵 (잉글랜드)
+       IDs: ENGLAND_D1_CUP_KNOCKOUT
+ 39  OK       21  FIFA Club World Cup  =>  FIFA 클럽 월드컵
+       IDs: FIFA_CLUB_WORLD_CUP_KNOCKOUT
+ 40  OK       14  FIFA World Cup  =>  FIFA 월드컵
+       IDs: FIFA_WORLD_CUP_GROUPSTAGE, FIFA_WORLD_CUP_KNOCKOUT
+ 41  CHG      31  First Phase  =>  스플릿 전 (스코틀랜드)
+       IDs: SCOTLAND_D1_LEAGUE_0
+ 42  OK       31  Fuji Xerox Super Cup  =>  후지필름 슈퍼컵 (일본)
+       IDs: JAPAN_SUPER_CUP_KNOCKOUT
+ 43  OK       20  International Friendly Match  =>  국제 친선 경기
+       IDs: SPE_FRIENDLY_MATCH_PRACTICE
+ 44  OK       35  Italian Promotion Play-off  =>  이탈리아 승격 플레이오프
+       IDs: ITALY_D2_PLAYOFF_KNOCKOUT
+ 45  OK       17  J1 League  =>  J1리그 (일본)
+       IDs: JAPAN_D1_LEAGUE
+ 46  OK       41  Johan Cruyff Shield  =>  요한 크라위프 실드 (네덜란드)
+       IDs: NETHERLANDS_SUPER_CUP_KNOCKOUT
+ 47  OK       34  Jupiler Pro League  =>  주필러 프로리그 (벨기에)
+       IDs: BELGIUM_D1_LEAGUE
+ 48  OK       21  King's Cup  =>  킹스컵 (사우디)
+       IDs: KSA_CUP_KNOCKOUT
+ 49  OK       22  KNVB Cup  =>  KNVB컵 (네덜란드)
+       IDs: NETHERLANDS_D1_CUP_KNOCKOUT
+ 50  OK       13  Kypello Elladas  =>  그리스 컵
+       IDs: GREECE_CUP_KNOCKOUT
+ 51  CHG      21  LaLiga  =>  라리가 (스페인)
+       IDs: SPAIN_D1_LEAGUE
+ 52  OK       23  LaLiga 2  =>  라리가 2 (스페인)
+       IDs: SPAIN_D2_LEAGUE
+ 53  OK        6  League  =>  리그
+       IDs: CUSTOM_LEAGUE
+ 54  OK       45  Liga BetPlay DIMAYOR  =>  카테고리아 프리메라 A (콜롬비아)
+       IDs: COLOMBIA_D1_LEAGUE_LEAGUE_2SEAS
+ 55  OK       31  Liga BetPlay DIMAYOR I  =>  리가 BetPlay I (콜롬비아)
+       IDs: COLOMBIA_D1_LEAGUE_0
+ 56  OK       47  Liga BetPlay DIMAYOR I Playoffs  =>  리가 BetPlay I 플레이오프 (콜롬비아)
+       IDs: COLOMBIA_D1_LEAGUE_KNOCKOUT_0
+ 57  OK       32  Liga BetPlay DIMAYOR II  =>  리가 BetPlay II (콜롬비아)
+       IDs: COLOMBIA_D1_LEAGUE_1
+ 58  OK       48  Liga BetPlay DIMAYOR II Playoffs  =>  리가 BetPlay II 플레이오프 (콜롬비아)
+       IDs: COLOMBIA_D1_LEAGUE_KNOCKOUT_1
+ 59  OK       32  Liga de Primera  =>  칠레 프리메라 디비시온
+       IDs: CHILE_D1_LEAGUE
+ 60  OK       19  Liga Portugal Betclic  =>  리가 포르투갈
+       IDs: PORTUGAL_D1_LEAGUE
+ 61  OK       41  Liga Profesional de Fútbol  =>  아르헨티나 프리메라 디비시온
+       IDs: ARGENTINA_D1_LEAGUE
+ 62  CHG      20  Ligue 1  =>  리그 1 (프랑스)
+       IDs: FRANCE_D1_LEAGUE
+ 63  OK       20  Ligue 2 BKT  =>  리그 2 (프랑스)
+       IDs: FRANCE_D2_LEAGUE
+ 64  OK       32  Major League Soccer  =>  메이저 리그 사커 (미국)
+       IDs: US_D1_LEAGUE
+ 65  OK       28  Mir Russian Premier Liga  =>  러시아 프리미어리그
+       IDs: RUSSIA_D1_LEAGUE
+ 66  CHG      19  MLS First Round  =>  MLS 동부 (미국)
+       IDs: US_D1_LEAGUE_EAST
+ 67  CHG      19  MLS Second Round  =>  MLS 서부 (미국)
+       IDs: US_D1_LEAGUE_WEST
+ 68  OK       23  North and Central American Qualifiers  =>  북중미 지역 예선
+       IDs: FIFA_WORLD_CUP_NCAMERICA_FINAL
+ 69  CHG      45  Playoffs Group A  =>  챔피언십 플레이오프 A조 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_1
+ 70  CHG      45  Playoffs Group B  =>  챔피언십 플레이오프 B조 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_4
+ 71  OK       23  Pre-season friendly Cup  =>  프리시즌 친선 컵
+       IDs: CHAMPIONS_CUP_NA, CHAMPIONS_CUP_SA, CHAMPIONS_CUP_ASIA
+ 72  CHG      33  Premier League  =>  프리미어리그 (잉글랜드)
+       IDs: ENGLAND_D1_LEAGUE
+ 73  OK       19  Pro League Supercup  =>  벨기에 슈퍼컵
+       IDs: BELGIUM_SUPER_CUP_KNOCKOUT
+ 74  CHG      25  Regular Season  =>  정규 시즌 (덴마크)
+       IDs: DENMARK_D1_LEAGUE_0
+ 75  OK       13  Russian Cup  =>  러시아 컵
+       IDs: RUSSIA_CUP_KNOCKOUT
+ 76  OK       19  Russian Supercup  =>  러시아 슈퍼컵
+       IDs: RUSSIA_SUPER_CUP_KNOCKOUT
+ 77  OK       22  Saudi Pro League  =>  사우디 프로리그
+       IDs: KSA_D1_LEAGUE
+ 78  OK       19  Saudi Super  Cup  =>  사우디 슈퍼컵
+       IDs: KSA_SUPER_CUP_KNOCKOUT
+ 79  OK       15  Scottish Cup  =>  스코티시컵
+       IDs: SCOTLAND_CUP_KNOCKOUT
+ 80  OK       28  Scottish Premiership  =>  스코티시 프리미어십
+       IDs: SCOTLAND_D1_LEAGUE_SPLIT_TOTAL
+ 81  CHG      26  Serie A TIM  =>  세리에 A (이탈리아)
+       IDs: ITALY_D1_LEAGUE
+ 82  OK       26  Serie BKT  =>  세리에 B (이탈리아)
+       IDs: ITALY_D2_LEAGUE
+ 83  OK       20  South American Qualifiers  =>  남미 지역 예선
+       IDs: FIFA_WORLD_CUP_SAMERICA_FINAL
+ 84  OK       34  Spanish 2nd Division Playoffs  =>  라리가 2 승격 플레이오프
+       IDs: SPAIN_D2_PLAYOFF_KNOCKOUT
+ 85  OK       22  Super League  =>  그리스 슈퍼리그
+       IDs: GREECE_D1_LEAGUE
+ 86  OK       31  Supercopa Argentina  =>  수페르코파 아르헨티나
+       IDs: ARGENTINA_SUPER_CUP_KNOCKOUT
+ 87  OK       32  Supercopa de España  =>  수페르코파 데 에스파냐
+       IDs: SPAIN_SUPER_CUP_KNOCKOUT
+ 88  OK       31  Supercoppa Italiana  =>  수페르코파 이탈리아나
+       IDs: ITALY_SUPER_CUP_KNOCKOUT
+ 89  OK       28  Superliga BetPlay  =>  수페르리가 콜롬비아
+       IDs: COLOMBIA_SUPER_CUP_KNOCKOUT
+ 90  OK       60  Supertaça Cândido de Oliveira  =>  수페르타사 칸디두 드 올리베이라 (포르투갈)
+       IDs: PORTUGAL_SUPER_CUP_KNOCKOUT
+ 91  OK       23  Taça de Portugal  =>  타사 드 포르투갈
+       IDs: PORTUGAL_D1_CUP_KNOCKOUT
+ 92  OK       13  Testimonial  =>  은퇴 경기
+       IDs: SPE_RETIREMENT_MATCH_PRACTICE, SPE_ML_RETIREMENT_MATCH_PRACTIC
+ 93  OK       29  TFF Süper Kupa  =>  TFF 쉬페르 쿠파 (터키)
+       IDs: TURKEY_SUPER_CUP_KNOCKOUT
+ 94  OK       18  The Emperor's Cup  =>  천황배 (일본)
+       IDs: JAPAN_D1_CUP_KNOCKOUT
+ 95  CHG      34  Top Six  =>  상위 스플릿 (스코틀랜드)
+       IDs: SCOTLAND_D1_LEAGUE_1
+ 96  OK       13  Training Match  =>  연습 경기
+       IDs: SPE_PRACTICE_MATCH_PRACTICE
+ 97  OK       24  Trendyol Süper Lig  =>  쉬페르리그 (터키)
+       IDs: TURKEY_D1_LEAGUE
+ 98  OK       35  Trophée des Champions  =>  트로페 데 샹피옹 (프랑스)
+       IDs: FRANCE_SUPER_CUP_KNOCKOUT
+ 99  OK       10  Turkish Cup  =>  터키 컵
+       IDs: TURKEY_CUP_KNOCKOUT
+100  OK       23  UEFA Champions League  =>  UEFA 챔피언스리그
+       IDs: UEFA_CHAMPIONS_LEAGUE_PLAYOFF, UEFA_CHAMPIONS_LEAGUE_GROUPSTAG, UEFA_CHAMPIONS_LEAGUE_KNOCKOUT
+101  OK       11  UEFA EURO  =>  UEFA 유로
+       IDs: EURO_GROUPSTAGE, EURO_GROUPSTAGE_0, EURO_GROUPSTAGE_1, EURO_GROUPSTAGE_2, EURO_GROUPSTAGE_3, EURO_GROUPSTAGE_4, EURO_GROUPSTAGE_5, EURO_KNOCKOUT
+102  OK       20  UEFA Europa League  =>  UEFA 유로파리그
+       IDs: UEFA_EUROPE_LEAGUE_GROUPSTAGE, UEFA_EUROPE_LEAGUE_KNOCKOUT
+103  OK       14  UEFA Super Cup  =>  UEFA 슈퍼컵
+       IDs: UEFA_SUPER_CUP_KNOCKOUT
+104  OK       21  US Open Cup  =>  US 오픈컵 (미국)
+       IDs: US_D1_CUP_KNOCKOUT
+105  OK       26  World Selection Challenge  =>  월드 셀렉션 챌린지
+       IDs: WORLD_SELECTION_KNOCKOUT
+
+총 105 / 변경 20
+
+=== CHG 목록 ===
+- Bottom round Group A: 강등 플레이오프 A조 => 강등 플레이오프 A조 (덴마크)
+- Bottom round Group B: 강등 플레이오프 B조 => 강등 플레이오프 B조 (덴마크)
+- Bottom six: 하위 스플릿 => 하위 스플릿 (스코틀랜드)
+- Brasileirão Série A: 브라질레이랑 세리 A (브라질) => 브라질레이랑 세리 A
+- Brasileirão Série B: 브라질레이랑 세리 B (브라질) => 브라질레이랑 세리 B
+- Bundesliga: 분데스리가 => 분데스리가 (독일)
+- Copa del Rey: 코파 델 레이 => 코파 델 레이 (스페인)
+- European Playoffs: 유럽 진출 플레이오프 => 유럽 진출 플레이오프 (덴마크)
+- FA Cup: FA컵 => FA컵 (잉글랜드)
+- First Phase: 스플릿 전 => 스플릿 전 (스코틀랜드)
+- LaLiga: 라리가 => 라리가 (스페인)
+- Ligue 1: 리그 1 => 리그 1 (프랑스)
+- MLS First Round: MLS 동부 => MLS 동부 (미국)
+- MLS Second Round: MLS 서부 => MLS 서부 (미국)
+- Playoffs Group A: 챔피언십 플레이오프 A조 => 챔피언십 플레이오프 A조 (덴마크)
+- Playoffs Group B: 챔피언십 플레이오프 B조 => 챔피언십 플레이오프 B조 (덴마크)
+- Premier League: 프리미어리그 => 프리미어리그 (잉글랜드)
+- Regular Season: 정규 시즌 => 정규 시즌 (덴마크)
+- Serie A TIM: 세리에 A => 세리에 A (이탈리아)
+- Top Six: 상위 스플릿 => 상위 스플릿 (스코틀랜드)
