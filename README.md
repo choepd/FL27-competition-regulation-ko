@@ -2,6 +2,14 @@
 
 SP Football Life 2027용 대회 이름·대회 규정 본문 한글화 배포물입니다.
 
+## 실제 적용 화면
+
+대회명·규정 본문이 한글로 나오는 예시입니다.
+
+![대회명 — 소속 리그 / 분데스리가](images/ingame_competition_names.png)
+
+![규정 — UEFA 챔피언스리그 조별리그](images/ingame_regulation_ucl.jpg)
+
 ## 릴리즈
 
 | 항목 | 내용 |
