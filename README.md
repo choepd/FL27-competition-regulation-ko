@@ -43,7 +43,7 @@ SP FL 27 1.00 이후 버전에는 그대로 덮어쓰지 말아주세요. 패치
    `SP Football Life 2027\SiderAddons\livecpk\root\common\etc\pesdb\CompetitionRegulation.bin`
 3. Sider를 켠 뒤 게임을 실행해 대회명이 한글로 나오는지 확인해 주세요.
 
-두 파일은 역할이 다릅니다. 규정 CPK만 넣으면 대회 이름은 그대로일 수 있고, 대회명 BIN만 넣으면 규정 본문은 그대로일 수 있습니다.
+두 파일은 각각 수정한 부분만 바꿉니다. 대회명 BIN은 대회 표시명만, 규정 CPK는 한글화한 규정 문구(패치 대상이던 영어 본문)만 바뀌고, 나머지 문자열은 그대로입니다.
 
 ## 참고
 
